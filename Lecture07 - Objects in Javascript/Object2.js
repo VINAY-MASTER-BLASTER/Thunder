@@ -42,15 +42,3 @@ const customer = {
 //     console.log(key,customer[key])
 // }
 // don't use this method it is not recommended  
-
-
-
-
-
-
-
-
-const number = [10,20,7,101,23,78,4]
-number.sort((a,b)=>a-b)
-console.log(number)
-
