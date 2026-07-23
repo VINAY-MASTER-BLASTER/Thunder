@@ -223,3 +223,4 @@
 // console.log(false || "Rohit")
 // console.log(true || true)
 // same to OR operator 
+// first condition true then second condition return
