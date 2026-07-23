@@ -45,8 +45,6 @@
 
 // element.textContent //all ways use textcontent (Safe)
 // console.log(element) //actully content and hidden content show  
-
-
 // element.innerHTML  //not use it 
 // console.log(element)  // actully content inside tag and hidden content
 // what ever pass it consider as a HTML
